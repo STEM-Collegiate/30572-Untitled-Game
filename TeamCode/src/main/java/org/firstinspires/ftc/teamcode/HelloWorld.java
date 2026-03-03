@@ -15,4 +15,7 @@ public class HelloWorld extends OpMode {
     public void loop() {
         telemetry.addLine("Hello World!");
     }
+
+    // TODO: Add method for start
+    // TODO: Add method for init loop
 }
