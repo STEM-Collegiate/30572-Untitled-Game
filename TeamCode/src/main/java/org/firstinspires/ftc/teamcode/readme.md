@@ -6,6 +6,41 @@ This module, TeamCode, is the place where you will write/paste the code for your
 robot controller App. This module is currently empty (a clean slate) but the
 process for adding OpModes is straightforward.
 
+## Using `TODO` To Track Tasks
+```java
+// TODO: Something that needs to be done for this class.
+```
+## Viewing Code Review Pull Requests
+
+* **DOES NOT WORK ON FORKED REPOS**
+* Pull from github regularly.
+* Check for pull requests.
+* Be sure to turn off highlighting or else it's just a big blob of green.
+
+## Maintaining Code With Javadoc
+```java
+/**
+ * Summary fragment
+ * 
+ * @param
+ * @return
+ */
+```
+## Naming Things
+
+* Package Names: `concatenatedlowercasestrings`
+* Class Names: `UpperCamelCase` - nouns or noun phrases
+* Method Names: `lowerCamelCase` - verbs or verb phrases
+* Constant Names: `UPPER_SNAKE_CASE` - nouns or noun phrases
+* Variable Names: `lowerCamelCase` - nouns or noun phrases
+
+## Using Modifiers
+
+* `public`
+* `private`
+* `static`
+* `final`
+
 ## Creating your own OpModes
 
 The easiest way to create your own OpMode is to copy a Sample OpMode and make it your own.
@@ -118,7 +153,7 @@ Note: Some names start with "Team" and others start with "team".  This is intent
 
 2)  In the new Team0417 folder, delete the TeamCode.iml file.
 
-3)  the new Team0417 folder, rename the "src/main/java/org/firstinspires/ftc/teamcode" folder
+3) In the new Team0417 folder, rename the "src/main/java/org/firstinspires/ftc/teamcode" folder
     to a matching name with a lowercase 'team' eg:  "team0417".
 
 4)  In the new Team0417/src/main folder, edit the "AndroidManifest.xml" file, change the line that contains
