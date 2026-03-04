@@ -12,6 +12,7 @@ process for adding OpModes is straightforward.
 ```
 ## Viewing Code Review Pull Requests
 
+* **DOES NOT WORK ON FORKED REPOS**
 * Pull from github regularly.
 * Check for pull requests.
 * Be sure to turn off highlighting or else it's just a big blob of green.
