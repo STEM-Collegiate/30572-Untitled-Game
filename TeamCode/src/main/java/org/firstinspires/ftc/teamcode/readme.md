@@ -12,6 +12,10 @@ process for adding OpModes is straightforward.
 ```
 ## Viewing Code Review Pull Requests
 
+* Pull from github regularly.
+* Check for pull requests.
+* Be sure to turn off highlighting or else it's just a big blob of green.
+
 ## Maintaining Code With Javadoc
 ```java
 /**
